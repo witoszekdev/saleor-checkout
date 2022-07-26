@@ -156,3 +156,5 @@ Open [localhost:3000/checkout-spa?checkout=<ID>](http://localhost:3000/checkout-
 ### More info
 
 See [checkout-storefront package](../../packages/checkout-storefront/README.md) for more information.
+
+## TEST
